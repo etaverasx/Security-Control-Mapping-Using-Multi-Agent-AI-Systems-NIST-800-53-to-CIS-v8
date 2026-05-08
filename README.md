@@ -43,14 +43,6 @@ All four agents share the same underlying language model (Gemma 3 12B), running 
 
 ## Setup
 
-Clone the repository and install dependencies:
-
-```bash
-git clone <repo-url>
-cd <repo-name>
-pip install -r requirements.txt
-```
-
 Pull the Gemma 3 12B model:
 
 ```bash
