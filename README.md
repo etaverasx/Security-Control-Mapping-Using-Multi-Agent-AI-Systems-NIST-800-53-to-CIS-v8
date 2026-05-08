@@ -3,7 +3,6 @@
 
 A multi-agent pipeline that automates the mapping of NIST SP 800-53 Rev 5 security controls to CIS Controls v8 Safeguards. For each NIST control, the pipeline retrieves a short list of likely CIS matches using semantic search, then runs four specialized AI agents that classify and explain each mapping.
 
-This project was developed as a capstone for Fordham University's Graduate School of Arts and Science.
 
 ## What the Pipeline Does
 
